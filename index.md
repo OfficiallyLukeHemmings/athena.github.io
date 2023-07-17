@@ -15,6 +15,3 @@ If you do not wish to register for any reason please use the guest credentials b
 - password - guest123
 
 *Please remember that other users may inspect the website using the same guest credentials, as such, please refrain from using any profanities or using offensive language.*
-
----
-*Please note this web application is intended to be viewed on desktop, and is not currently mobile-friendly.*
