@@ -11,7 +11,7 @@ Repo: https://github.com/OfficiallyLukeHemmings/athena-tracker
 
 ---
 ### Demo: [https://athena-tracker.vercel.app/](https://athena-tracker.vercel.app/)
-
+---
 If you do not wish to register for any reason please use the guest credentials below:
 - email - guest@guest.com
 - password - guest123
