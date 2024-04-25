@@ -8,14 +8,17 @@ In addition to the above, this project was developed using Vite, Jest through th
 I really had a blast working with Vite and TailwindCSS in this project and will definitely be using this tech stack for more personal projects going forward.
 
 ---
-### Athena Win/Loss Tracker: [https://athena-tracker.vercel.app/](https://athena-tracker.vercel.app/)
+### Repo: https://github.com/OfficiallyLukeHemmings/athena-tracker
 ---
+
+
+---
+### Demo: [https://athena-tracker.vercel.app/](https://athena-tracker.vercel.app/)
+
 If you do not wish to register for any reason please use the guest credentials below:
 - email - guest@guest.com
 - password - guest123
 
 *Please remember that other users may inspect the website using the same guest credentials, as such, please refrain from using any profanities or using offensive language.*
 
----
-### Repo: https://github.com/OfficiallyLukeHemmings/athena-tracker
----
+
