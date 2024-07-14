@@ -7,7 +7,7 @@ In addition to the above, this project was developed using Vite, Jest through th
 
 I really had a blast working with Vite and TailwindCSS in this project and will definitely be using this tech stack for more personal projects going forward.
 
-Repo: https://github.com/OfficiallyLukeHemmings/athena-tracker
+Repo: [https://github.com/OfficiallyLukeHemmings/athena-tracker](https://github.com/OfficiallyLukeHemmings/athena-tracker)
 
 ---
 ### Demo: [https://athena-tracker.vercel.app/](https://athena-tracker.vercel.app/)
